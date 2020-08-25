@@ -1,7 +1,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Snipe it!
+title: Aaryan Gupta
 
 # Your name to show in the footer
 author: Aaryan Gupta
@@ -35,7 +35,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
+  facebook: https://www.facebook.com/profile.php?id=100039762494533
   github: daattali
   twitter: daattali
 #  reddit: yourname
